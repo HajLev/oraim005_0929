@@ -45,6 +45,8 @@ namespace oraim005_0929
 
             Console.ReadKey();
             Console.Clear();
+
+            Console.ReadKey();
         }
     }
 }
