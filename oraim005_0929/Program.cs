@@ -10,7 +10,8 @@ namespace oraim005_0929
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("1. feladat");
+            Console.WriteLine("Bankjegy autómata");
 
             Console.ReadKey();
         }
